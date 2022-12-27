@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>814723926662-enu2m6p3uubfc2u7s4jov5qbes2sm83o.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.814723926662-enu2m6p3uubfc2u7s4jov5qbes2sm83o</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>814723926662-d4ama8o7k9lnqrmjjthle2q85cj2kab7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyD1OkvfZl6Y9T4ekJ28i4VbuancJEewkwM</string>
+	<key>GCM_SENDER_ID</key>
+	<string>814723926662</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.etoncompany.web.app</string>
+	<key>PROJECT_ID</key>
+	<string>eton-company</string>
+	<key>STORAGE_BUCKET</key>
+	<string>eton-company.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:814723926662:ios:09c0371d29fff857135f07</string>
+	<key>DATABASE_URL</key>
+	<string>https://eton-company-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
